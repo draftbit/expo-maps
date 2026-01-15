@@ -29,15 +29,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/draftbit/react-native-jigsaw",
+    "url": "https://github.com/draftbit/expo-maps",
     "directory": "packages/maps"
   },
   "author": "Draftbit <services@draftbit.com> (https://draftbit.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/draftbit/react-native-jigsaw/issues"
+    "url": "https://github.com/draftbit/expo-maps/issues"
   },
-  "homepage": "https://github.com/draftbit/react-native-jigsaw#readme",
+  "homepage": "https://github.com/draftbit/expo-maps#readme",
   "dependencies": {
     "@react-google-maps/api": "~2.20.8",
     "@teovilla/react-native-web-maps": "^0.9.5",
