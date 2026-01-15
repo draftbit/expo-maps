@@ -1,6 +1,6 @@
 ## `@draftbit/expo-maps`
 
-`MapView`, `MapMarker`, and `MapCallout` components, powered by `react-native-maps` and `@teovilla/react-native-web-maps`. For use on iOS, Android, and Web.
+Expo compatible maps library for iOS, Android, and Web
 
 ### Install
 
