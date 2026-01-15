@@ -1,6 +1,6 @@
 {
   "name": "@draftbit/expo-maps",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Expo compatible maps library for iOS, Android, and Web",
   "main": "lib/commonjs/index.js",
   "types": "lib/typescript/src/index.d.ts",
