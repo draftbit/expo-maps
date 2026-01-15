@@ -1,5 +1,5 @@
 {
-  "exclude": ["**/lib/**/*", "**/__tests__/**"],
+  "exclude": ["**/lib/**/*", "**/__tests__/**", "example/**"],
   "compilerOptions": {
     "baseUrl": ".",
     "sourceMap": true,
