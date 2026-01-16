@@ -15,7 +15,7 @@ module.exports = {
     bundleIdentifier: "com.example.maps_example",
     supportsTablet: true,
     config: {
-      googleMapsApiKey: process.env.EXPO_PUBLIC_IOS_GOOGLE_MAPS_API_KEY,
+      googleMapsApiKey: process.env.IOS_GOOGLE_MAPS_API_KEY,
     },
   },
   android: {
@@ -28,7 +28,7 @@ module.exports = {
     predictiveBackGestureEnabled: false,
     config: {
       googleMaps: {
-        apiKey: process.env.EXPO_PUBLIC_ANDROID_GOOGLE_MAPS_API_KEY,
+        apiKey: process.env.ANDROID_GOOGLE_MAPS_API_KEY,
       },
     },
   },

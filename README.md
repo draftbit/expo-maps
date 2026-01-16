@@ -81,6 +81,6 @@ const styles = StyleSheet.create({
 You can hard-code your keys as above, or the reccomended way is to wire them to env vars.
 
 - **Env vars used by the example app in `example/`**:
-  - `EXPO_PUBLIC_IOS_GOOGLE_MAPS_API_KEY`
-  - `EXPO_PUBLIC_ANDROID_GOOGLE_MAPS_API_KEY`
+  - `IOS_GOOGLE_MAPS_API_KEY`
+  - `ANDROID_GOOGLE_MAPS_API_KEY`
   - `EXPO_PUBLIC_WEB_GOOGLE_MAPS_API_KEY`
